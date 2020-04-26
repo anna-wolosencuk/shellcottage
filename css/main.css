@@ -1,0 +1,16 @@
+/* Gryffindor Gradient */
+.g-background {
+	background-image: radial-gradient(circle, rgba(205,92,92,1) 10%, rgba(175,12,12,1) 50%);
+}
+/* Slytherin Gradient */
+.s-background {
+	background-image: radial-gradient(circle, rgba(105,139,105,1) 10%, rgba(23,175,23,1) 50%);
+}
+/* Hufflepuff Gradient */
+.h-background {
+	background-image: radial-gradient(circle, rgba(255,250,205,1) 10%, rgba(156,143,25,1) 50%);
+}
+/* Ravenclaw Gradient */
+.r-background {
+	background-image: radial-gradient(circle, rgba(142,229,238,1) 10%, rgba(15,115,125,1) 50%);
+}
