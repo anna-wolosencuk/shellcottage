@@ -14,3 +14,14 @@
 .r-background {
 	background-image: radial-gradient(circle, rgba(142,229,238,1) 10%, rgba(15,115,125,1) 50%);
 }
+
+/* nav background */
+nav {
+	background-color: #D1D1D1;
+	font-family: linotype-vectora, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+nav a {
+	color: #0E0F19;
+}
