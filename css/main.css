@@ -43,10 +43,10 @@ h2{
 	font-size: 20px;
 	text-transform: uppercase;
 }
-#stats {
+#stats{
 	padding: 50px 0px;
 }
-dd {
+.homeStat {
 	border-radius: 50%;
 	height: 100px;
 	background: #DDDBDB;
@@ -64,6 +64,11 @@ footer {
 	background-color: rgba(255, 255, 255, 0.65);
 	padding: 20px 0px;
 }
-a {
-	text-decoration: none;
+#userBack {
+	background-color: black;
+	height: 100px;
+}
+.user {
+	padding-top: 40px;
+	padding-bottom: 30px;
 }
