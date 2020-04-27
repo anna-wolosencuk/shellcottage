@@ -33,9 +33,28 @@ nav a {
 	color: #0E0F19;
 }
 
-.container:first-of-type {
+#wel {
 	margin-top: 100px;
+	padding-bottom: 40px;
 }
 #info {
+	background-color: rgba(255, 255, 255, 0.65);
+	padding: 50px 0px;
+}
+h2{
+	font-size: 20px;
+	text-transform: uppercase;
+}
+#stats {
+	padding: 50px 0px;
+}
+dd {
+	border-radius: 50%;
+	height: 100px;
+	background: #DDDBDB;
+	font-size: 30px;
+}
+footer {
+	height: 50px;
 	background-color: rgba(255, 255, 255, 0.65);
 }
