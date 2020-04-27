@@ -15,13 +15,27 @@
 	background-image: radial-gradient(circle, rgba(142,229,238,1) 10%, rgba(15,115,125,1) 50%);
 }
 
-/* nav background */
-nav {
-	background-color: #D1D1D1;
+body {
+	background-color: #A5A5A5;
 	font-family: linotype-vectora, sans-serif;
 	font-weight: 400;
 	font-style: normal;
+	color: #0E0F19;
+}
+
+/* nav background */
+nav {
+	background-color: #D1D1D1;
+	
+	
 }
 nav a {
 	color: #0E0F19;
+}
+
+.container:first-of-type {
+	margin-top: 100px;
+}
+#info {
+	background-color: rgba(255, 255, 255, 0.65);
 }
